@@ -40,7 +40,7 @@ key point:
     1. `v-slot` support after version 2.6.0, and only be added to a `<template>`
     2. `slot`  support before version 2.6.0 
 
-## Exercise 3: scoped-slot
+## Exercise 4: scoped-slot
 
 Scoped Slots let us to use data which is in the children component, and use it in parent component.
 
@@ -62,7 +62,7 @@ key point:
   步驟1: 在自定義標籤中選擇使用 slot and slot-scope 或者 v-slot 
   步驟2: 在子元件中綁定想要讓父元件使用的資料
 
-## Exercise 4: destructuring slot props 
+## Exercise 5: destructuring slot props 
 
 Here we use scoped-slot component to show how to destructuring slot props
 
